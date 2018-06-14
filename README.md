@@ -22,6 +22,7 @@ allprojects {
 ### Add it in your app build.gradle inside dependencies:
 ```xml
 dependencies {
+        ...
         implementation 'com.github.subirZ:DateRangePicker:1.0'
         implementation 'com.android.support:appcompat-v7:support_version'
         implementation 'com.android.support:design:support_version'
