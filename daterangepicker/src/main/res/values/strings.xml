@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DateRangePicker</string>
+
+    <string name="str_ok">ok</string>
+    <string name="str_cancel">cancel</string>
+    <string name="str_start_date">start date</string>
+    <string name="str_end_date">end date</string>
+    <string name="alert_start_date">Please enter start date</string>
+    <string name="alert_end_date">Please enter end date</string>
+</resources>
