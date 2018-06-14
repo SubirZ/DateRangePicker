@@ -2,7 +2,7 @@
 
 DateRangePicker is a Calendar Picker View to get you start and end dates in a single view. you can customse it as per your need.
 
-# To get a Git project into your build:
+# To import DateRangePicker into your project:
 
 ## Step 1. Add the JitPack repository to your build file
 
