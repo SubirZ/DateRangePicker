@@ -28,3 +28,5 @@ dependencies {
         implementation 'com.android.support:design:support_version'
 }
 ```
+![](https://i.imgur.com/UDCnNSi.gif)
+![](https://i.imgur.com/765Kkmz.gif)
