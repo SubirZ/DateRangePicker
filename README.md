@@ -29,4 +29,6 @@ dependencies {
 }
 ```
 ![](https://i.imgur.com/UDCnNSi.gif)
+
+### Past dates after start date are ignored
 ![](https://i.imgur.com/765Kkmz.gif)
